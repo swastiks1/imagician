@@ -1,6 +1,6 @@
-# Pixel Palette: AI Image Processing Platform
+# Imagician: AI Image Processing Platform
 
-Pixel Palette is a powerful and user-friendly AI image processing platform designed to empower users with a variety of image editing capabilities. It seamlessly integrates cutting-edge technologies with a user-friendly interface, allowing you to effortlessly enhance and transform your images.
+Imagician is a powerful and user-friendly AI image processing platform designed to empower users with a variety of image editing capabilities. It seamlessly integrates cutting-edge technologies with a user-friendly interface, allowing you to effortlessly enhance and transform your images.
 
 ## Features:
 
